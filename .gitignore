@@ -1,0 +1,8 @@
+/.vscode
+/B01_ap-name-mac-group.csv
+/B01_ap-name-mac-group_scipt.cfg
+/B02-ess#-apname.csv
+/B02-ess#-apname.json
+/MM_provision_ap.py
+/ess_replace_apname.py
+/plotNormal.py
