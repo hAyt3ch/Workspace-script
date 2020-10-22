@@ -8,7 +8,6 @@ import json
 import pathlib
 import shutil
 from pprint import pprint
-import csv 
 
 def main():
     parser = argparse.ArgumentParser(
