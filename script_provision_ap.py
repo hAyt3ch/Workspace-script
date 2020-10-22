@@ -18,7 +18,7 @@ def main():
 
     current_filename = pathlib.PurePath(args.file).stem
     
-    working_directory = os.getcwd()
+    #working_directory = os.getcwd()
     input_filename = current_filename + '.csv'
     print('[Script Genrator]: your input file name is: ' + input_filename)
     output_filename = current_filename + "_scipt.cfg"
