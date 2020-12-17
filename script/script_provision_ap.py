@@ -9,9 +9,24 @@ import pathlib
 import shutil
 from pprint import pprint
 
+def isHex(s): 
+    # Size of string
+    n = len(s)
+    # Iterate over string
+    for i in range(n):
+        ch = s[i]
+        # Check if the character
+        # is invalid
+        if ((ch < '0' or ch > '9') and
+            (ch < 'A' or ch > 'F')):
+            return False
+    return True
+ 
+
 def main():
     parser = argparse.ArgumentParser(
-        description='This script will update the name of AP based on the name from csv file')
+        description='This script will update the name of AP based on the name\
+         from csv file')
     parser.add_argument('file', metavar='csv_file', help='csv file')
     args = parser.parse_args()
 
@@ -27,18 +42,26 @@ def main():
     ap_mac_column = ':' 
     ap_mac = ''
     ap_name = ''
-    with open(output_filename, 'w', encoding='utf-8') as jsonf: 
-
-        with open(input_filename, 'r', encoding='utf-8') as data: 
+    with open(output_filename, 'w', encoding='utf-8') as jsonf, \
+        open(input_filename, 'r', encoding='utf-8') as data: 
             
             for line in csv.DictReader(data): 
                 ap_mac = line['ap-mac']
                 ap_name = line['ap-name']
                 ap_group = line['ap-group']
-                ap_mac_column = ':'.join(format(s, '02x') for s in bytes.fromhex(ap_mac))
-                cli_cmd = cli_cmd_begin + f'read-bootinfo ap-name {ap_mac_column}\n' + f'ap-name {ap_name}\n' + f'ap-group {ap_group}\n' + f'reprovision ap-name {ap_name}\n' + '!\n'
-                print(cli_cmd) 
-                jsonf.write(cli_cmd)
+                if isHex(ap_mac): 
+                    ap_mac_column = ':'.join(format(s, '02x') \
+                        for s in bytes.fromhex(ap_mac))
+                    cli_cmd = cli_cmd_begin + \
+                        f'read-bootinfo ap-name {ap_mac_column}\n' \
+                            + f'ap-name {ap_name}\n' \
+                     + f'ap-group {ap_group}\n' + \
+                         f'reprovision ap-name {ap_mac_column}\n' + '!\n'
+                    print(cli_cmd) 
+                    jsonf.write(cli_cmd)
+                else: 
+                    pass
+
 if __name__ == "__main__":
     start_time = time.time()
     print('Generating cfg script ...\n')
