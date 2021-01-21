@@ -1,0 +1,93 @@
+[32m[I 201223 10:49:30 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 11:01:40 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 11:02:09 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 11:02:39 script_push_ap_group:49][39m Please hold-on while preparing the configuration ...
+[32m[I 201223 11:03:28 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 11:04:31 script_push_ap_group:49][39m Please hold-on while preparing the configuration ...
+[32m[I 201223 11:05:05 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 11:05:21 script_push_ap_group:49][39m Please hold-on while preparing the configuration ...
+[32m[I 201223 11:06:11 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 11:06:20 script_push_ap_group:49][39m Please hold-on while preparing the configuration ...
+[32m[I 201223 11:06:31 script_push_ap_group:58][39m Pushing AP_Group configuration
+[32m[I 201223 11:11:50 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 11:11:58 script_push_ap_group:49][39m Please hold-on while preparing the configuration ...
+[32m[I 201223 11:12:08 script_push_ap_group:58][39m Pushing AP_Group configuration
+[32m[I 201223 11:18:28 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 11:26:13 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 11:28:06 script_push_ap_group:49][39m Please hold-on while preparing the configuration ...
+[32m[I 201223 11:28:08 script_push_ap_group:58][39m Pushing AP_Group configuration
+[32m[I 201223 12:22:28 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 12:23:31 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 12:23:58 script_push_ap_group:49][39m Please hold-on while preparing the configuration ...
+[32m[I 201223 12:24:05 script_push_ap_group:58][39m Pushing AP_Group configuration
+[32m[I 201223 12:26:37 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 12:26:47 script_push_ap_group:49][39m Please hold-on while preparing the configuration ...
+[32m[I 201223 12:26:48 script_push_ap_group:58][39m Pushing AP_Group configuration
+[32m[I 201223 12:27:52 script_push_ap_group:89][39m Configuration pushed successfully after: 75.25 sec
+[32m[I 201223 14:12:15 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 14:12:30 script_push_ap_group:45][39m Please hold-on while preparing the configuration ...
+[32m[I 201223 14:12:39 script_push_ap_group:54][39m Pushing AP_Group configuration
+[32m[I 201223 14:12:46 script_push_ap_group:75][39m Configuration pushed successfully after: 30.71 sec
+[32m[I 201223 14:14:21 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 14:14:33 script_push_ap_group:43][39m Please hold-on while preparing the configuration ...
+[32m[I 201223 14:14:33 script_push_ap_group:52][39m Pushing AP_Group configuration
+[32m[I 201223 14:21:15 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 14:21:20 script_push_ap_group:43][39m Please hold-on while preparing the configuration ...
+[32m[I 201223 14:21:20 script_push_ap_group:52][39m Pushing AP_Group configuration
+[32m[I 201223 14:22:11 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 14:22:14 script_push_ap_group:43][39m Please hold-on while preparing the configuration ...
+[32m[I 201223 14:22:14 script_push_ap_group:52][39m Pushing AP_Group configuration
+[31m[E 201223 14:22:59 script_push_ap_group:69][39m Program have to stop, no ap_group data
+[32m[I 201223 16:19:46 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 16:19:52 script_push_ap_group:43][39m Please hold-on while preparing the configuration ...
+[32m[I 201223 16:19:52 script_push_ap_group:52][39m Pushing AP_Group configuration
+[32m[I 201223 16:20:02 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 16:20:13 script_push_ap_group:43][39m Please hold-on while preparing the configuration ...
+[32m[I 201223 16:20:13 script_push_ap_group:52][39m Pushing AP_Group configuration
+[32m[I 201223 16:29:21 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 16:29:25 script_push_ap_group:43][39m Please hold-on while preparing the configuration ...
+[32m[I 201223 16:29:25 script_push_ap_group:52][39m Pushing AP_Group configuration
+[32m[I 201223 16:31:05 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 16:59:31 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 17:00:20 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 17:00:44 script_push_ap_group:41][39m Please hold-on while preparing the configuration ...
+[32m[I 201223 17:00:44 script_push_ap_group:50][39m Pushing AP_Group configuration
+[32m[I 201223 17:01:38 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 17:01:43 script_push_ap_group:41][39m Please hold-on while preparing the configuration ...
+[32m[I 201223 17:01:43 script_push_ap_group:50][39m Pushing AP_Group configuration
+[32m[I 201223 17:01:48 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 17:01:54 script_push_ap_group:41][39m Please hold-on while preparing the configuration ...
+[32m[I 201223 17:01:54 script_push_ap_group:50][39m Pushing AP_Group configuration
+[32m[I 201223 17:02:24 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 17:02:29 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 17:05:17 script_push_ap_group:41][39m Please hold-on while preparing the configuration ...
+[32m[I 201223 17:05:17 script_push_ap_group:50][39m Pushing AP_Group configuration
+[32m[I 201223 17:07:14 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 17:07:25 script_push_ap_group:41][39m Please hold-on while preparing the configuration ...
+[32m[I 201223 17:07:25 script_push_ap_group:50][39m Pushing AP_Group configuration
+[32m[I 201223 17:10:50 script_push_ap_group:18][39m Welcome!
+[32m[I 201223 17:10:57 script_push_ap_group:41][39m Please hold-on while preparing the configuration ...
+[32m[I 201223 17:10:57 script_push_ap_group:50][39m Pushing AP_Group configuration
+[32m[I 201223 17:11:00 script_push_ap_group:71][39m Configuration pushed successfully after: 10.44 sec
+[32m[I 201224 01:48:47 script_push_ap_group:30][39m Welcome!
+[32m[I 201224 01:49:32 script_push_ap_group:51][39m Please hold-on while preparing the configuration ...
+[32m[I 201224 01:49:32 script_push_ap_group:60][39m Pushing AP_Group configuration
+[32m[I 201224 01:51:11 script_push_ap_group:30][39m Welcome!
+[32m[I 201224 01:51:16 script_push_ap_group:51][39m Please hold-on while preparing the configuration ...
+[32m[I 201224 01:51:16 script_push_ap_group:60][39m Pushing AP_Group configuration
+[31m[E 201224 01:53:58 script_push_ap_group:78][39m There is no valid ap-group data. The script is quitting.
+[32m[I 201224 01:55:16 script_push_ap_group:30][39m Welcome!
+[32m[I 201224 01:55:21 script_push_ap_group:51][39m Please hold-on while preparing the configuration ...
+[32m[I 201224 01:55:21 script_push_ap_group:60][39m Pushing AP_Group configuration
+[32m[I 201224 02:02:29 script_push_ap_group:30][39m Welcome!
+[32m[I 201224 02:02:46 script_push_ap_group:51][39m Please hold-on while preparing the configuration ...
+[32m[I 201224 02:02:46 script_push_ap_group:60][39m Pushing AP_Group configuration
+[32m[I 201224 02:04:28 script_push_ap_group:30][39m Welcome!
+[32m[I 201224 02:04:31 script_push_ap_group:51][39m Please hold-on while preparing the configuration ...
+[32m[I 201224 02:04:31 script_push_ap_group:60][39m Pushing AP_Group configuration
+[32m[I 201224 02:05:42 script_push_ap_group:30][39m Welcome!
+[32m[I 201224 02:05:46 script_push_ap_group:51][39m Please hold-on while preparing the configuration ...
+[32m[I 201224 02:05:46 script_push_ap_group:60][39m Pushing AP_Group configuration
+[32m[I 201224 02:16:02 script_push_ap_group:30][39m Welcome!
+[32m[I 201224 02:16:08 script_push_ap_group:51][39m Please hold-on while preparing the configuration ...
+[32m[I 201224 02:16:08 script_push_ap_group:60][39m Pushing AP_Group configuration

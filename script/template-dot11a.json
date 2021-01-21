@@ -1,0 +1,57 @@
+{
+        "profile-name": "<a>-dot11a",
+        "radio_enable": {
+          "_present": true,
+          "_flags": {
+            "default": true
+          }
+        },
+        "mode": {
+          "_flags": {
+            "default": true
+          },
+          "radio_mode": "ap-mode"
+        },
+        "radio_ht_enable": {
+          "_present": true,
+          "_flags": {
+            "default": true
+          }
+        },
+        "radio_vht_enable": {
+          "_present": true,
+          "_flags": {
+            "default": true
+          }
+        },
+        "radio_he_enable": {
+          "_action": "delete"
+        },
+        "tx_power": {
+          "_flags": {
+            "default": true
+          },
+          "tx-power": "15"
+        },
+        "max_channel_bandwidth": {
+          "chan_bandwidth_type": "40MHz"
+        },
+        "min_channel_bandwidth": {
+          "_flags": {
+            "default": true
+          },
+          "min_chan_bandwidth_type": "20MHz"
+        },
+        "eirp_min": {
+          "eirp-min": 18
+        },
+        "eirp_max": {
+          "eirp-max": 21
+        },
+        "eirp_offset": {
+          "_flags": {
+            "default": true
+          },
+          "eirp-offset": 0
+        }
+}

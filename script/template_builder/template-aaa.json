@@ -1,0 +1,48 @@
+{
+        "profile-name": "template_aaa_prof",
+        "default_user_role": {
+          "role": "denyall"
+        },
+        "mac_default_role": {
+          "default-role": "denyall"
+        },
+        "mba_server_group": {
+          "_flags": {
+            "default": true
+          },
+          "srv-group": "default"
+        },
+        "dot1x_auth_profile": {
+          "profile-name": "template_dot1x_auth"
+        },
+        "dot1x_default_role": {
+          "default-role": "denyall"
+        },
+        "dot1x_server_group": {
+          "srv-group": "template_dot1_svg"
+        },
+        "max_ipv4_for_wireless": {
+          "_flags": {
+            "default": true
+          },
+          "max_ipv4_users": 2
+        },
+        "rad_acct_sg": {
+          "server_group_name": "template_dot1_svg"
+        },
+        "enable_roaming_rad_acct": {},
+        "enable_rad_interim_acct": {},
+        "wwroam": {
+          "_present": true,
+          "_flags": {
+            "default": true
+          }
+        },
+        "devtype_classification": {
+          "_present": true,
+          "_flags": {
+            "default": true
+          }
+        },
+        "enforce_dhcp": {}
+}

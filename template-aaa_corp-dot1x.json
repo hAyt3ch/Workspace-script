@@ -1,0 +1,177 @@
+{
+        "profile-name": "template_dot1x_auth",
+        "dot1x_maxf": {
+          "_flags": {
+            "default": true
+          },
+          "failure-count": 0
+        },
+        "machine_auth_def_role": {
+          "_flags": {
+            "default": true
+          },
+          "ma-default-role": "guest"
+        },
+        "machine_auth_cache_tmout": {
+          "_flags": {
+            "default": true
+          },
+          "ma-cache-tmout": 24
+        },
+        "machine_auth_user_def_role": {
+          "_flags": {
+            "default": true
+          },
+          "ua-default-role": "guest"
+        },
+        "idrequest_period": {
+          "_flags": {
+            "default": true
+          },
+          "idr-period": 5
+        },
+        "quiet_period": {
+          "_flags": {
+            "default": true
+          },
+          "qt-period": 30
+        },
+        "reauth_period": {
+          "_flags": {
+            "default": true
+          },
+          "ra-period": 86400
+        },
+        "mkey_period": {
+          "_flags": {
+            "default": true
+          },
+          "mkr-period": 1800
+        },
+        "ukey_period": {
+          "_flags": {
+            "default": true
+          },
+          "ukr-period": 900
+        },
+        "serverretry_period": {
+          "_flags": {
+            "default": true
+          },
+          "srv-ret-period": 5
+        },
+        "server_retry": {
+          "_flags": {
+            "default": true
+          },
+          "srv-retries": 3
+        },
+        "framed_mtu": {
+          "_flags": {
+            "default": true
+          },
+          "fmtu": 1100
+        },
+        "max_requests": {
+          "_flags": {
+            "default": true
+          },
+          "mx-requests": 5
+        },
+        "reauth_max_requests": {
+          "_flags": {
+            "default": true
+          },
+          "ramx-requests": 3
+        },
+        "heldstate_bypass_counter": {
+          "_flags": {
+            "default": true
+          },
+          "hs-counter": 0
+        },
+        "wep_key_retries": {
+          "_flags": {
+            "default": true
+          },
+          "wk-retries": 1
+        },
+        "wep_key_size": {
+          "_flags": {
+            "default": true
+          },
+          "wk-size": 128
+        },
+        "wpakey_period_ms": {
+          "_flags": {
+            "default": true
+          },
+          "wk-period": 1000
+        },
+        "wpa2key_delay": {
+          "_flags": {
+            "default": true
+          },
+          "wk-delay": 0
+        },
+        "wpagkey_delay": {
+          "_flags": {
+            "default": true
+          },
+          "wgk-delay": 0
+        },
+        "keycache_tmout": {
+          "_flags": {
+            "default": true
+          },
+          "kc-tmout": 8
+        },
+        "wpa_key_retries": {
+          "_flags": {
+            "default": true
+          },
+          "wpak-retries": 3
+        },
+        "opp_key_caching": {
+          "_present": true,
+          "_flags": {
+            "default": true
+          }
+        },
+        "validate_pmkid": {
+          "_present": true,
+          "_flags": {
+            "default": true
+          }
+        },
+        "xSec_mtu": {
+          "_flags": {
+            "default": true
+          },
+          "xsecmtu": 1300
+        },
+        "token_caching_period": {
+          "_flags": {
+            "default": true
+          },
+          "tk-cache-period": 24
+        },
+        "server_cert": {
+          "_flags": {
+            "default": true
+          },
+          "server-cert-name": "default"
+        },
+        "tls_guest_role": {
+          "_flags": {
+            "default": true
+          },
+          "tg-role": "guest"
+        },
+        "dot1x_cert_cn_lookup": {
+          "_present": true,
+          "_flags": {
+            "default": true
+          }
+        }
+}

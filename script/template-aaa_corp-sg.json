@@ -1,0 +1,9 @@
+    {
+        "sg_name": "template_dot1x_svg",
+        "load_balance": {},
+        "auth_server": [
+          {
+            "name": "template-aaa"
+          }
+        ]
+    }

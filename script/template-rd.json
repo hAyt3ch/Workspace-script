@@ -1,0 +1,114 @@
+{
+    "profile-name": "TEMPLATE-rd",
+    "country_code": {
+      "country-code": "CA"
+    },
+    "valid_11b_channel": [
+      {
+        "valid-11g-channel": 1
+      },
+      {
+        "valid-11g-channel": 6
+      },
+      {
+        "valid-11g-channel": 11
+      }
+    ],
+    "valid_11a_channel": [
+      {
+        "valid-11a-channel": 36
+      },
+      {
+        "valid-11a-channel": 40
+      },
+      {
+        "valid-11a-channel": 44
+      },
+      {
+        "valid-11a-channel": 48
+      },
+      {
+        "valid-11a-channel": 52
+      },
+      {
+        "valid-11a-channel": 56
+      },
+      {
+        "valid-11a-channel": 60
+      },
+      {
+        "valid-11a-channel": 64
+      },
+      {
+        "valid-11a-channel": 100
+      },
+      {
+        "valid-11a-channel": 104
+      },
+      {
+        "valid-11a-channel": 108
+      },
+      {
+        "valid-11a-channel": 112
+      },
+      {
+        "valid-11a-channel": 116
+      },
+      {
+        "valid-11a-channel": 132
+      },
+      {
+        "valid-11a-channel": 136
+      },
+      {
+        "valid-11a-channel": 140
+      },
+      {
+        "valid-11a-channel": 144
+      },
+      {
+        "valid-11a-channel": 149
+      },
+      {
+        "valid-11a-channel": 153
+      },
+      {
+        "valid-11a-channel": 157
+      },
+      {
+        "valid-11a-channel": 161
+      }
+    ],
+    "valid_11a_40mhz_chan_pair_nd": [
+      {
+        "valid-11a-40mhz-channel-pair": "36-40"
+      },
+      {
+        "valid-11a-40mhz-channel-pair": "44-48"
+      },
+      {
+        "valid-11a-40mhz-channel-pair": "52-56"
+      },
+      {
+        "valid-11a-40mhz-channel-pair": "60-64"
+      },
+      {
+        "valid-11a-40mhz-channel-pair": "100-104"
+      },
+      {
+        "valid-11a-40mhz-channel-pair": "108-112"
+      },
+      {
+        "valid-11a-40mhz-channel-pair": "132-136"
+      },
+      {
+        "valid-11a-40mhz-channel-pair": "140-144"
+      },
+      {
+        "valid-11a-40mhz-channel-pair": "149-153"
+      },
+      {
+        "valid-11a-40mhz-channel-pair": "157-161"
+      }
+    ]
+}

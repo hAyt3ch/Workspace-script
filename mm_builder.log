@@ -1,0 +1,5 @@
+[31m[E 201223 11:07:12 mm_builder:89][39m Could not open json file: template-dot11a.json
+    Traceback (most recent call last):
+      File "script/template_builder/mm_builder.py", line 73, in __init__
+        with open(self.__dot11a_filename, 'r') as f_dot11a,\
+    FileNotFoundError: [Errno 2] No such file or directory: 'template-dot11a.json'

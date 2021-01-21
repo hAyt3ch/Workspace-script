@@ -1,0 +1,185 @@
+{
+    "profile-name": "TEMPLATE-PUBLIC_ssid_prof",
+    "ssid_enable": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "essid": {
+      "essid": "TEMPLATE-PUBLIC"
+    },
+    "opmode": {
+      "_flags": {
+        "default": true
+      },
+      "opensystem": true
+    },
+    "wpa3_transition": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "dtim_period": {
+      "_flags": {
+        "default": true
+      },
+      "dtim-period": 1
+    },
+    "a_basic_rates": {
+      "6": true,
+      "12": true,
+      "24": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "a_tx_rates": {
+      "6": true,
+      "9": true,
+      "12": true,
+      "18": true,
+      "24": true,
+      "36": true,
+      "48": true,
+      "54": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "g_basic_rates": {
+      "6": "6"
+    },
+    "g_tx_rates": {
+      "6": "6",
+      "12": "12",
+      "18": "18",
+      "24": "24",
+      "36": "36",
+      "48": "48",
+      "54": "54"
+    },
+    "ageout": {
+      "_flags": {
+        "default": true
+      },
+      "ageout": 1000
+    },
+    "refresh_dir": {
+      "_flags": {
+        "default": true
+      },
+      "refresh_dir": "bidirectional"
+    },
+    "max_retries": {
+      "_flags": {
+        "default": true
+      },
+      "max-retries": 8
+    },
+    "rts_threshhold": {
+      "_flags": {
+        "default": true
+      },
+      "rts-threshold": 2333
+    },
+    "short_preamble": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "max_clients": {
+      "max-clients": 128
+    },
+    "wmm": {},
+    "wmm_uapsd": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "wmm_ts_min_inact_int": {
+      "_flags": {
+        "default": true
+      },
+      "wmm-ts-min-inact-int": 0
+    },
+    "wmm_dscp_mapping": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "wmm_eap_ac": {
+      "_flags": {
+        "default": true
+      },
+      "wmm_ac": "default"
+    },
+    "multiple_tx_replay_counters": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "local_probe_req_thresh": {
+      "local-probe-req-thresh": 12
+    },
+    "auth_req_thresh": {
+      "auth-req-thresh": 12
+    },
+    "disable_probe_retry": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "weptxkey": {
+      "_flags": {
+        "default": true
+      },
+      "weptxkey": 1
+    },
+    "max_tx_fail": {
+      "_flags": {
+        "default": true
+      },
+      "max-tx-fail": 0
+    },
+    "eapol_rate_opt": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "ht_ssid_prof": {
+      "_flags": {
+        "default": true
+      },
+      "profile-name": "default"
+    },
+    "he_ssid_prof": {
+      "_flags": {
+        "default": true
+      },
+      "profile-name": "default"
+    },
+    "g_beacon_rate": {
+      "g_phy_rate": "6"
+    },
+    "a_beacon_rate": {
+      "a_phy_rate": "6"
+    },
+    "multicast_rate": {
+      "ng_phy_rate": "6"
+    },
+    "qbss_load_enable": {},
+    "okc_enable": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    }
+  }

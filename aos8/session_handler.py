@@ -41,7 +41,7 @@ class mm_session:
 &password={self.__password}"
       for i in range(1,self.__retrys+1):
         if self.__verbose:
-          print("\n**[AP_GROUP Genrator]: login, try {}".format(str(i)))
+          print("\n**[session_handler]: login, try {}".format(str(i)))
         response = self.__session.get(url, verify=self.__check_ssl)
         cookie = response.json()
         if self.__debug:
@@ -68,7 +68,7 @@ class mm_session:
     logout_data = json.loads(response.text)
     self.__api_token = None
     if self.__verbose:
-      print ("\n**[AP_GROUP Genrator]: {}".format(logout_data["_global_result"]["status_str"]))
+      print ("\n**[session_handler]: {}".format(logout_data["_global_result"]["status_str"]))
 
   def _get(self, api_path, config_path=None):
     if self.__api_token == None:
@@ -90,7 +90,7 @@ class mm_session:
     response = self.__session.post("{}{}?UIDARUBA={}&config_path={}".format(self.__api_url,api_path,self.__api_token,config_path), json=data)
     data = json.loads(response.text)
     if self.__debug:
-      print ("\n**[AP_GROUP Genrator]: {}".format(str(data)))
+      print ("\n**[session_handler]: {}".format(str(data)))
     return data
 
   def _write_memory(self, config_path):
@@ -99,7 +99,7 @@ class mm_session:
     response = self.__session.post("{}configuration/object/write_memory{}&UIDARUBA={}".format(self.__api_url,node_path,self.__api_token),json=nothing)
     data = json.loads(response.text)
     if self.__verbose:
-      print ("\n**[AP_GROUP Genrator]: {}".format(str(data)))
+      print ("\n**[session_handler]: {}".format(str(data)))
     return data
 
   def _cli_command(self, command):
@@ -108,5 +108,5 @@ class mm_session:
       f"{self.__api_url}configuration/showcommand?command={mod_command}&UIDARUBA={self.__api_token}")
     data = json.loads(response.text)
     if self.__verbose:
-      print ("\n**[AP_GROUP Genrator]: {}".format(str(data)))
+      print ("\n**[session_handler]: {}".format(str(data)))
     return data

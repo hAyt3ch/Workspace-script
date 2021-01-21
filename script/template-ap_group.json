@@ -1,0 +1,23 @@
+{
+  "profile-name": "000-<>-<>-AP-GROUP",
+  "virtual_ap": [
+    {
+      "profile-name": "TEMPLATE"
+    },
+    {
+    "profile-name": "TEMPLATE-PUBLIC"
+    }
+  ],
+  "dot11a_prof": {
+    "profile-name": "<>-dot11a"
+  },
+  "dot11g_prof": {
+    "profile-name": "<>-dot11g"
+  },
+  "ap_sys_prof": {
+    "profile-name": "<>-AP"
+  },
+  "reg_domain_prof": {
+    "profile-name": "<>-RD"
+  }
+}

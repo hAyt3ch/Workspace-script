@@ -1,0 +1,56 @@
+{
+        "profile-name": "template-no-he",
+        "ssid_he_enable": {
+          "_present": false
+        },
+        "dynamic_fragmentation_level": {
+          "_flags": {
+            "default": true
+          },
+          "he_ssid_fragmentation_level": "Level-0"
+        },
+        "he_duration_based_rts": {
+          "_flags": {
+            "default": true
+          },
+          "he-duration-based-rts": 1023
+        },
+        "individual_twt": {
+          "_present": true,
+          "_flags": {
+            "default": true
+          }
+        },
+        "he_txbf": {
+          "_present": true,
+          "_flags": {
+            "default": true
+          }
+        },
+        "he_supported_mcs_map": {
+          "_flags": {
+            "default": true
+          },
+          "he-supported-mcs-map": "11,11,11,11,11,11,11,11"
+        },
+        "he_mu_ofdma": {
+          "_present": true,
+          "_flags": {
+            "default": true
+          }
+        },
+        "he_mu_mimo": {
+          "_present": true,
+          "_flags": {
+            "default": true
+          }
+        },
+        "he_supported_gi_set": {
+          "_flags": {
+            "default": true
+          },
+          "800ns": true,
+          "1600ns": true,
+          "3200ns": true
+        }
+}

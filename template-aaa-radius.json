@@ -1,0 +1,63 @@
+{
+  "rad_server": [
+    {
+      "rad_server_name": "template-aaa",
+      "rad_host": {
+        "host": "10.10.93.205"
+      },
+      "rad_key": {
+        "key": "******"
+      },
+      "rad_authport": {
+        "_flags": {
+          "default": true
+        },
+        "authport": 1812
+      },
+      "rad_acctport": {
+        "_flags": {
+          "default": true
+        },
+        "acctport": 1813
+      },
+      "radsec_port": {
+        "_flags": {
+          "default": true
+        },
+        "radsec-port": 2083
+      },
+      "rad_retransmit": {
+        "_flags": {
+          "default": true
+        },
+        "retransmit": 3
+      },
+      "rad_timeout": {
+        "_flags": {
+          "default": true
+        },
+        "timeout": 5
+      },
+      "rad_mode": {
+        "_present": true,
+        "_flags": {
+          "default": true
+        }
+      },
+      "rad_mac_delimiter": {
+        "_flags": {
+          "default": true
+        },
+        "mba_delimiter_t": "none"
+      },
+      "rad_called_station_id": {
+        "_flags": {
+          "default": true
+        },
+        "csid_type": "macaddr",
+        "include_ssid_t": "disable",
+        "csid_delimiter_t": "colon"
+      }
+    }
+  ]
+}

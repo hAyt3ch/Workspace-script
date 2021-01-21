@@ -1,0 +1,1046 @@
+[33m[W 201223 11:02:09 mmclient:19][39m Calling __init__()
+[33m[W 201223 11:02:09 mmclient:116][39m Not verifying SSL
+[33m[W 201223 11:02:39 mmclient:19][39m Calling _login()
+[33m[W 201223 11:02:39 mmclient:397][39m SSL verify (False or cert path): False
+[33m[W 201223 11:02:39 mmclient:19][39m Calling _api_call()
+[33m[W 201223 11:02:39 mmclient:356][39m Method is: POST
+[33m[W 201223 11:02:39 mmclient:19][39m Calling node_hierarchy()
+[33m[W 201223 11:02:39 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 11:02:39 mmclient:19][39m Calling resource()
+[33m[W 201223 11:02:39 mmclient:19][39m Calling _params()
+[33m[W 201223 11:02:39 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 11:02:39 mmclient:19][39m Calling _api_call()
+[33m[W 201223 11:02:39 mmclient:356][39m Method is: POST
+[33m[W 201223 11:04:07 mmclient:19][39m Calling __init__()
+[33m[W 201223 11:04:07 mmclient:116][39m Not verifying SSL
+[33m[W 201223 11:04:16 mmclient:19][39m Calling _login()
+[33m[W 201223 11:04:16 mmclient:397][39m SSL verify (False or cert path): False
+[33m[W 201223 11:04:16 mmclient:19][39m Calling _api_call()
+[33m[W 201223 11:04:16 mmclient:356][39m Method is: POST
+[33m[W 201223 11:04:28 mmclient:19][39m Calling node_hierarchy()
+[33m[W 201223 11:04:28 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 11:04:28 mmclient:19][39m Calling resource()
+[33m[W 201223 11:04:28 mmclient:19][39m Calling _params()
+[33m[W 201223 11:04:28 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 11:04:28 mmclient:19][39m Calling _api_call()
+[33m[W 201223 11:04:28 mmclient:356][39m Method is: POST
+[33m[W 201223 11:05:15 mmclient:19][39m Calling __init__()
+[33m[W 201223 11:05:15 mmclient:116][39m Not verifying SSL
+[33m[W 201223 11:05:21 mmclient:19][39m Calling _login()
+[33m[W 201223 11:05:21 mmclient:397][39m SSL verify (False or cert path): False
+[33m[W 201223 11:05:21 mmclient:19][39m Calling _api_call()
+[33m[W 201223 11:05:21 mmclient:356][39m Method is: POST
+[33m[W 201223 11:05:21 mmclient:19][39m Calling node_hierarchy()
+[33m[W 201223 11:05:21 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 11:05:21 mmclient:19][39m Calling resource()
+[33m[W 201223 11:05:21 mmclient:19][39m Calling _params()
+[33m[W 201223 11:05:21 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 11:05:21 mmclient:19][39m Calling _api_call()
+[33m[W 201223 11:05:21 mmclient:356][39m Method is: POST
+[33m[W 201223 11:06:13 mmclient:19][39m Calling __init__()
+[33m[W 201223 11:06:13 mmclient:116][39m Not verifying SSL
+[33m[W 201223 11:06:20 mmclient:19][39m Calling _login()
+[33m[W 201223 11:06:20 mmclient:397][39m SSL verify (False or cert path): False
+[33m[W 201223 11:06:20 mmclient:19][39m Calling _api_call()
+[33m[W 201223 11:06:20 mmclient:356][39m Method is: POST
+[33m[W 201223 11:06:20 mmclient:19][39m Calling node_hierarchy()
+[33m[W 201223 11:06:20 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 11:06:20 mmclient:19][39m Calling resource()
+[33m[W 201223 11:06:20 mmclient:19][39m Calling _params()
+[33m[W 201223 11:06:20 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 11:06:20 mmclient:19][39m Calling _api_call()
+[33m[W 201223 11:06:20 mmclient:356][39m Method is: POST
+[33m[W 201223 11:11:53 mmclient:19][39m Calling __init__()
+[33m[W 201223 11:11:53 mmclient:116][39m Not verifying SSL
+[33m[W 201223 11:11:58 mmclient:19][39m Calling _login()
+[33m[W 201223 11:11:58 mmclient:397][39m SSL verify (False or cert path): False
+[33m[W 201223 11:11:58 mmclient:19][39m Calling _api_call()
+[33m[W 201223 11:11:58 mmclient:356][39m Method is: POST
+[33m[W 201223 11:11:58 mmclient:19][39m Calling node_hierarchy()
+[33m[W 201223 11:11:58 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 11:11:58 mmclient:19][39m Calling resource()
+[33m[W 201223 11:11:58 mmclient:19][39m Calling _params()
+[33m[W 201223 11:11:58 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 11:11:58 mmclient:19][39m Calling _api_call()
+[33m[W 201223 11:11:58 mmclient:356][39m Method is: POST
+[33m[W 201223 11:18:28 mmclient:19][39m Calling __init__()
+[33m[W 201223 11:18:28 mmclient:116][39m Not verifying SSL
+[33m[W 201223 11:18:34 mmclient:19][39m Calling _login()
+[33m[W 201223 11:18:34 mmclient:397][39m SSL verify (False or cert path): False
+[33m[W 201223 11:18:34 mmclient:19][39m Calling _api_call()
+[33m[W 201223 11:18:34 mmclient:356][39m Method is: POST
+[33m[W 201223 11:18:40 mmclient:19][39m Calling node_hierarchy()
+[33m[W 201223 11:18:40 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 11:18:40 mmclient:19][39m Calling resource()
+[33m[W 201223 11:18:40 mmclient:19][39m Calling _params()
+[33m[W 201223 11:18:40 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 11:18:40 mmclient:19][39m Calling _api_call()
+[33m[W 201223 11:18:40 mmclient:356][39m Method is: POST
+[33m[W 201223 11:26:13 mmclient:19][39m Calling __init__()
+[33m[W 201223 11:26:13 mmclient:116][39m Not verifying SSL
+[33m[W 201223 11:26:16 mmclient:19][39m Calling _login()
+[33m[W 201223 11:26:16 mmclient:397][39m SSL verify (False or cert path): False
+[33m[W 201223 11:26:16 mmclient:19][39m Calling _api_call()
+[33m[W 201223 11:26:16 mmclient:356][39m Method is: POST
+[33m[W 201223 11:26:20 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201223 11:26:20 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 11:26:20 mmclient:19][39m Calling resource()
+[33m[W 201223 11:26:20 mmclient:19][39m Calling _params()
+[33m[W 201223 11:26:20 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 11:26:20 mmclient:19][39m Calling _api_call()
+[33m[W 201223 11:26:20 mmclient:356][39m Method is: POST
+[33m[W 201223 11:29:38 mmclient:19][39m Calling ap_a_radio_prof()
+[33m[W 201223 11:29:38 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 11:29:38 mmclient:19][39m Calling resource()
+[33m[W 201223 11:29:38 mmclient:19][39m Calling _params()
+[33m[W 201223 11:29:38 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 11:29:38 mmclient:19][39m Calling _api_call()
+[33m[W 201223 11:29:38 mmclient:356][39m Method is: POST
+[31m[E 201223 11:29:38 mmclient:386][39m Config not written: {'Error': 'Exception raised while processing request'}
+[33m[W 201223 11:32:10 mmclient:19][39m Calling ap_g_radio_prof()
+[33m[W 201223 11:32:10 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 11:32:10 mmclient:19][39m Calling resource()
+[33m[W 201223 11:32:10 mmclient:19][39m Calling _params()
+[33m[W 201223 11:32:10 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 11:32:10 mmclient:19][39m Calling _api_call()
+[33m[W 201223 11:32:10 mmclient:356][39m Method is: POST
+[33m[W 201223 11:32:53 mmclient:19][39m Calling ap_group()
+[33m[W 201223 11:32:53 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 11:32:53 mmclient:19][39m Calling resource()
+[33m[W 201223 11:32:53 mmclient:19][39m Calling _params()
+[33m[W 201223 11:32:53 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 11:32:53 mmclient:19][39m Calling _api_call()
+[33m[W 201223 11:32:53 mmclient:356][39m Method is: POST
+[33m[W 201223 12:22:28 mmclient:19][39m Calling __init__()
+[33m[W 201223 12:22:28 mmclient:116][39m Not verifying SSL
+[33m[W 201223 12:22:33 mmclient:19][39m Calling _login()
+[33m[W 201223 12:22:33 mmclient:397][39m SSL verify (False or cert path): False
+[33m[W 201223 12:22:33 mmclient:19][39m Calling _api_call()
+[33m[W 201223 12:22:33 mmclient:356][39m Method is: POST
+[31m[E 201223 12:22:33 mmclient:411][39m Got a HTTPError exception
+    Traceback (most recent call last):
+      File "/home/hkefi/.local/lib/python3.9/site-packages/arubafi/mmclient.py", line 404, in _login
+        login_resp, login_resp_err = self._api_call("post", login_url, data=self.login_payload)
+      File "/home/hkefi/.local/lib/python3.9/site-packages/arubafi/mmclient.py", line 23, in wrapped
+        func_call = func(*args, **kwargs)
+      File "/home/hkefi/.local/lib/python3.9/site-packages/arubafi/mmclient.py", line 358, in _api_call
+        response = getattr(self.session, method.lower())(url, verify=self.verify, **kwargs)
+      File "/home/hkefi/.local/lib/python3.9/site-packages/requests/sessions.py", line 590, in post
+        return self.request('POST', url, data=data, json=json, **kwargs)
+      File "/home/hkefi/.local/lib/python3.9/site-packages/requests/sessions.py", line 542, in request
+        resp = self.send(prep, **send_kwargs)
+      File "/home/hkefi/.local/lib/python3.9/site-packages/requests/sessions.py", line 662, in send
+        r = dispatch_hook('response', hooks, r, **kwargs)
+      File "/home/hkefi/.local/lib/python3.9/site-packages/requests/hooks.py", line 31, in dispatch_hook
+        _hook_data = hook(hook_data, **kwargs)
+      File "/home/hkefi/.local/lib/python3.9/site-packages/arubafi/mmclient.py", line 172, in <lambda>
+        assert_status_hook = lambda response, *args, **kwargs: response.raise_for_status()
+      File "/home/hkefi/.local/lib/python3.9/site-packages/requests/models.py", line 943, in raise_for_status
+        raise HTTPError(http_error_msg, response=self)
+    requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://10.10.93.100:4343/v1/api/login
+[31m[E 201223 12:22:33 mmclient:412][39m Calling _login() with host: 10.10.93.100 & username: apiuser
+[33m[W 201223 12:23:38 mmclient:19][39m Calling __init__()
+[33m[W 201223 12:23:38 mmclient:116][39m Not verifying SSL
+[33m[W 201223 12:23:47 mmclient:19][39m Calling _login()
+[33m[W 201223 12:23:47 mmclient:397][39m SSL verify (False or cert path): False
+[33m[W 201223 12:23:47 mmclient:19][39m Calling _api_call()
+[33m[W 201223 12:23:47 mmclient:356][39m Method is: POST
+[33m[W 201223 12:23:51 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201223 12:23:51 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 12:23:51 mmclient:19][39m Calling resource()
+[33m[W 201223 12:23:51 mmclient:19][39m Calling _params()
+[33m[W 201223 12:23:51 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 12:23:51 mmclient:19][39m Calling _api_call()
+[33m[W 201223 12:23:51 mmclient:356][39m Method is: POST
+[33m[W 201223 12:26:40 mmclient:19][39m Calling __init__()
+[33m[W 201223 12:26:40 mmclient:116][39m Not verifying SSL
+[33m[W 201223 12:26:44 mmclient:19][39m Calling _login()
+[33m[W 201223 12:26:44 mmclient:397][39m SSL verify (False or cert path): False
+[33m[W 201223 12:26:44 mmclient:19][39m Calling _api_call()
+[33m[W 201223 12:26:44 mmclient:356][39m Method is: POST
+[33m[W 201223 12:26:47 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201223 12:26:47 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 12:26:47 mmclient:19][39m Calling resource()
+[33m[W 201223 12:26:47 mmclient:19][39m Calling _params()
+[33m[W 201223 12:26:47 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 12:26:47 mmclient:19][39m Calling _api_call()
+[33m[W 201223 12:26:47 mmclient:356][39m Method is: POST
+[33m[W 201223 12:27:46 mmclient:19][39m Calling ap_a_radio_prof()
+[33m[W 201223 12:27:46 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 12:27:46 mmclient:19][39m Calling resource()
+[33m[W 201223 12:27:46 mmclient:19][39m Calling _params()
+[33m[W 201223 12:27:46 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 12:27:46 mmclient:19][39m Calling _api_call()
+[33m[W 201223 12:27:46 mmclient:356][39m Method is: POST
+[33m[W 201223 12:27:46 mmclient:19][39m Calling ap_g_radio_prof()
+[33m[W 201223 12:27:46 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 12:27:46 mmclient:19][39m Calling resource()
+[33m[W 201223 12:27:46 mmclient:19][39m Calling _params()
+[33m[W 201223 12:27:46 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 12:27:46 mmclient:19][39m Calling _api_call()
+[33m[W 201223 12:27:46 mmclient:356][39m Method is: POST
+[33m[W 201223 12:27:47 mmclient:19][39m Calling ap_group()
+[33m[W 201223 12:27:47 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 12:27:47 mmclient:19][39m Calling resource()
+[33m[W 201223 12:27:47 mmclient:19][39m Calling _params()
+[33m[W 201223 12:27:47 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 12:27:47 mmclient:19][39m Calling _api_call()
+[33m[W 201223 12:27:47 mmclient:356][39m Method is: POST
+[33m[W 201223 12:27:51 mmclient:19][39m Calling ap_a_radio_prof()
+[33m[W 201223 12:27:51 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 12:27:51 mmclient:19][39m Calling resource()
+[33m[W 201223 12:27:51 mmclient:19][39m Calling _params()
+[33m[W 201223 12:27:51 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 12:27:51 mmclient:19][39m Calling _api_call()
+[33m[W 201223 12:27:51 mmclient:356][39m Method is: POST
+[33m[W 201223 12:27:51 mmclient:19][39m Calling ap_g_radio_prof()
+[33m[W 201223 12:27:51 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 12:27:51 mmclient:19][39m Calling resource()
+[33m[W 201223 12:27:51 mmclient:19][39m Calling _params()
+[33m[W 201223 12:27:51 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 12:27:51 mmclient:19][39m Calling _api_call()
+[33m[W 201223 12:27:51 mmclient:356][39m Method is: POST
+[33m[W 201223 12:27:51 mmclient:19][39m Calling ap_group()
+[33m[W 201223 12:27:51 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 12:27:51 mmclient:19][39m Calling resource()
+[33m[W 201223 12:27:51 mmclient:19][39m Calling _params()
+[33m[W 201223 12:27:51 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 12:27:51 mmclient:19][39m Calling _api_call()
+[33m[W 201223 12:27:51 mmclient:356][39m Method is: POST
+[33m[W 201223 12:27:52 mmclient:19][39m Calling logout()
+[33m[W 201223 12:27:52 mmclient:19][39m Calling _api_call()
+[33m[W 201223 12:27:52 mmclient:356][39m Method is: GET
+[33m[W 201223 14:12:23 mmclient:19][39m Calling __init__()
+[33m[W 201223 14:12:23 mmclient:116][39m Not verifying SSL
+[33m[W 201223 14:12:30 mmclient:19][39m Calling _login()
+[33m[W 201223 14:12:30 mmclient:397][39m SSL verify (False or cert path): False
+[33m[W 201223 14:12:30 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:12:30 mmclient:356][39m Method is: POST
+[33m[W 201223 14:12:39 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201223 14:12:39 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 14:12:39 mmclient:19][39m Calling resource()
+[33m[W 201223 14:12:39 mmclient:19][39m Calling _params()
+[33m[W 201223 14:12:39 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 14:12:39 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:12:39 mmclient:356][39m Method is: POST
+[33m[W 201223 14:12:42 mmclient:19][39m Calling ap_a_radio_prof()
+[33m[W 201223 14:12:42 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 14:12:42 mmclient:19][39m Calling resource()
+[33m[W 201223 14:12:42 mmclient:19][39m Calling _params()
+[33m[W 201223 14:12:42 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 14:12:42 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:12:42 mmclient:356][39m Method is: POST
+[33m[W 201223 14:12:42 mmclient:19][39m Calling ap_g_radio_prof()
+[33m[W 201223 14:12:42 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 14:12:42 mmclient:19][39m Calling resource()
+[33m[W 201223 14:12:42 mmclient:19][39m Calling _params()
+[33m[W 201223 14:12:42 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 14:12:42 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:12:42 mmclient:356][39m Method is: POST
+[33m[W 201223 14:12:42 mmclient:19][39m Calling ap_group()
+[33m[W 201223 14:12:42 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 14:12:42 mmclient:19][39m Calling resource()
+[33m[W 201223 14:12:42 mmclient:19][39m Calling _params()
+[33m[W 201223 14:12:42 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 14:12:42 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:12:42 mmclient:356][39m Method is: POST
+[33m[W 201223 14:12:43 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201223 14:12:43 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 14:12:43 mmclient:19][39m Calling resource()
+[33m[W 201223 14:12:43 mmclient:19][39m Calling _params()
+[33m[W 201223 14:12:43 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 14:12:43 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:12:43 mmclient:356][39m Method is: POST
+[33m[W 201223 14:12:44 mmclient:19][39m Calling ap_a_radio_prof()
+[33m[W 201223 14:12:44 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 14:12:44 mmclient:19][39m Calling resource()
+[33m[W 201223 14:12:44 mmclient:19][39m Calling _params()
+[33m[W 201223 14:12:44 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 14:12:44 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:12:44 mmclient:356][39m Method is: POST
+[33m[W 201223 14:12:44 mmclient:19][39m Calling ap_g_radio_prof()
+[33m[W 201223 14:12:44 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 14:12:44 mmclient:19][39m Calling resource()
+[33m[W 201223 14:12:44 mmclient:19][39m Calling _params()
+[33m[W 201223 14:12:44 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 14:12:44 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:12:44 mmclient:356][39m Method is: POST
+[33m[W 201223 14:12:44 mmclient:19][39m Calling ap_group()
+[33m[W 201223 14:12:44 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 14:12:44 mmclient:19][39m Calling resource()
+[33m[W 201223 14:12:44 mmclient:19][39m Calling _params()
+[33m[W 201223 14:12:44 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 14:12:44 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:12:44 mmclient:356][39m Method is: POST
+[33m[W 201223 14:12:46 mmclient:19][39m Calling logout()
+[33m[W 201223 14:12:46 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:12:46 mmclient:356][39m Method is: GET
+[33m[W 201223 14:14:30 mmclient:19][39m Calling __init__()
+[33m[W 201223 14:14:30 mmclient:116][39m Not verifying SSL
+[33m[W 201223 14:14:33 mmclient:19][39m Calling _login()
+[33m[W 201223 14:14:33 mmclient:397][39m SSL verify (False or cert path): False
+[33m[W 201223 14:14:33 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:14:33 mmclient:356][39m Method is: POST
+[33m[W 201223 14:14:42 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201223 14:14:42 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 14:14:42 mmclient:19][39m Calling resource()
+[33m[W 201223 14:14:42 mmclient:19][39m Calling _params()
+[33m[W 201223 14:14:42 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 14:14:42 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:14:42 mmclient:356][39m Method is: POST
+[33m[W 201223 14:15:27 mmclient:19][39m Calling ap_a_radio_prof()
+[33m[W 201223 14:15:27 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 14:15:27 mmclient:19][39m Calling resource()
+[33m[W 201223 14:15:27 mmclient:19][39m Calling _params()
+[33m[W 201223 14:15:27 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 14:15:27 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:15:27 mmclient:356][39m Method is: POST
+[33m[W 201223 14:15:27 mmclient:19][39m Calling ap_g_radio_prof()
+[33m[W 201223 14:15:27 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 14:15:27 mmclient:19][39m Calling resource()
+[33m[W 201223 14:15:27 mmclient:19][39m Calling _params()
+[33m[W 201223 14:15:27 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 14:15:27 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:15:27 mmclient:356][39m Method is: POST
+[33m[W 201223 14:17:26 mmclient:19][39m Calling ap_group()
+[33m[W 201223 14:17:26 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 14:17:26 mmclient:19][39m Calling resource()
+[33m[W 201223 14:17:26 mmclient:19][39m Calling _params()
+[33m[W 201223 14:17:26 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 14:17:26 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:17:26 mmclient:356][39m Method is: POST
+[33m[W 201223 14:17:27 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201223 14:17:27 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 14:17:27 mmclient:19][39m Calling resource()
+[33m[W 201223 14:17:27 mmclient:19][39m Calling _params()
+[33m[W 201223 14:17:27 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 14:17:27 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:17:27 mmclient:356][39m Method is: POST
+[33m[W 201223 14:17:30 mmclient:19][39m Calling ap_a_radio_prof()
+[33m[W 201223 14:17:30 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 14:17:30 mmclient:19][39m Calling resource()
+[33m[W 201223 14:17:30 mmclient:19][39m Calling _params()
+[33m[W 201223 14:17:30 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 14:17:30 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:17:30 mmclient:356][39m Method is: POST
+[33m[W 201223 14:17:30 mmclient:19][39m Calling ap_g_radio_prof()
+[33m[W 201223 14:17:30 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 14:17:30 mmclient:19][39m Calling resource()
+[33m[W 201223 14:17:30 mmclient:19][39m Calling _params()
+[33m[W 201223 14:17:30 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 14:17:30 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:17:30 mmclient:356][39m Method is: POST
+[33m[W 201223 14:17:35 mmclient:19][39m Calling ap_group()
+[33m[W 201223 14:17:35 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 14:17:35 mmclient:19][39m Calling resource()
+[33m[W 201223 14:17:35 mmclient:19][39m Calling _params()
+[33m[W 201223 14:17:35 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 14:17:35 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:17:35 mmclient:356][39m Method is: POST
+[33m[W 201223 14:21:15 mmclient:19][39m Calling __init__()
+[33m[W 201223 14:21:15 mmclient:116][39m Not verifying SSL
+[33m[W 201223 14:21:20 mmclient:19][39m Calling _login()
+[33m[W 201223 14:21:20 mmclient:397][39m SSL verify (False or cert path): False
+[33m[W 201223 14:21:20 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:21:20 mmclient:356][39m Method is: POST
+[33m[W 201223 14:21:23 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201223 14:21:23 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 14:21:23 mmclient:19][39m Calling resource()
+[33m[W 201223 14:21:23 mmclient:19][39m Calling _params()
+[33m[W 201223 14:21:23 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 14:21:23 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:21:23 mmclient:356][39m Method is: POST
+[33m[W 201223 14:22:11 mmclient:19][39m Calling __init__()
+[33m[W 201223 14:22:11 mmclient:116][39m Not verifying SSL
+[33m[W 201223 14:22:14 mmclient:19][39m Calling _login()
+[33m[W 201223 14:22:14 mmclient:397][39m SSL verify (False or cert path): False
+[33m[W 201223 14:22:14 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:22:14 mmclient:356][39m Method is: POST
+[33m[W 201223 14:22:18 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201223 14:22:18 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 14:22:18 mmclient:19][39m Calling resource()
+[33m[W 201223 14:22:18 mmclient:19][39m Calling _params()
+[33m[W 201223 14:22:18 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 14:22:18 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:22:18 mmclient:356][39m Method is: POST
+[33m[W 201223 14:22:23 mmclient:19][39m Calling ap_a_radio_prof()
+[33m[W 201223 14:22:23 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 14:22:23 mmclient:19][39m Calling resource()
+[33m[W 201223 14:22:23 mmclient:19][39m Calling _params()
+[33m[W 201223 14:22:23 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 14:22:23 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:22:23 mmclient:356][39m Method is: POST
+[33m[W 201223 14:22:24 mmclient:19][39m Calling ap_g_radio_prof()
+[33m[W 201223 14:22:24 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 14:22:24 mmclient:19][39m Calling resource()
+[33m[W 201223 14:22:24 mmclient:19][39m Calling _params()
+[33m[W 201223 14:22:24 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 14:22:24 mmclient:19][39m Calling _api_call()
+[33m[W 201223 14:22:24 mmclient:356][39m Method is: POST
+[33m[W 201223 16:19:46 mmclient:19][39m Calling __init__()
+[33m[W 201223 16:19:46 mmclient:117][39m Not verifying SSL
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _login()
+[33m[W 201223 16:19:52 mmclient:398][39m SSL verify (False or cert path): False
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _api_call()
+[33m[W 201223 16:19:52 mmclient:357][39m Method is: POST
+[33m[W 201223 16:19:52 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling resource()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _params()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _api_call()
+[33m[W 201223 16:19:52 mmclient:357][39m Method is: POST
+[33m[W 201223 16:19:52 mmclient:19][39m Calling ap_a_radio_prof()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling resource()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _params()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _api_call()
+[33m[W 201223 16:19:52 mmclient:357][39m Method is: POST
+[33m[W 201223 16:19:52 mmclient:19][39m Calling ap_g_radio_prof()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling resource()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _params()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _api_call()
+[33m[W 201223 16:19:52 mmclient:357][39m Method is: POST
+[33m[W 201223 16:19:52 mmclient:19][39m Calling reg_domain_prof()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling resource()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _params()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _api_call()
+[33m[W 201223 16:19:52 mmclient:357][39m Method is: POST
+[31m[E 201223 16:19:52 mmclient:387][39m Config not written: {'Error': 'Exception raised while processing request'}
+[33m[W 201223 16:19:52 mmclient:19][39m Calling ap_sys_prof()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling resource()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _params()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 16:19:52 mmclient:19][39m Calling _api_call()
+[33m[W 201223 16:19:52 mmclient:357][39m Method is: POST
+[31m[E 201223 16:19:52 mmclient:387][39m Config not written: {'Error': 'Exception raised while processing request'}
+[33m[W 201223 16:20:02 mmclient:19][39m Calling __init__()
+[33m[W 201223 16:20:02 mmclient:117][39m Not verifying SSL
+[33m[W 201223 16:20:13 mmclient:19][39m Calling _login()
+[33m[W 201223 16:20:13 mmclient:398][39m SSL verify (False or cert path): False
+[33m[W 201223 16:20:13 mmclient:19][39m Calling _api_call()
+[33m[W 201223 16:20:13 mmclient:357][39m Method is: POST
+[33m[W 201223 16:20:19 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201223 16:20:19 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 16:20:19 mmclient:19][39m Calling resource()
+[33m[W 201223 16:20:19 mmclient:19][39m Calling _params()
+[33m[W 201223 16:20:19 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 16:20:19 mmclient:19][39m Calling _api_call()
+[33m[W 201223 16:20:19 mmclient:357][39m Method is: POST
+[33m[W 201223 16:20:19 mmclient:19][39m Calling ap_a_radio_prof()
+[33m[W 201223 16:20:19 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 16:20:19 mmclient:19][39m Calling resource()
+[33m[W 201223 16:20:19 mmclient:19][39m Calling _params()
+[33m[W 201223 16:20:19 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 16:20:19 mmclient:19][39m Calling _api_call()
+[33m[W 201223 16:20:19 mmclient:357][39m Method is: POST
+[33m[W 201223 16:20:19 mmclient:19][39m Calling ap_g_radio_prof()
+[33m[W 201223 16:20:19 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 16:20:19 mmclient:19][39m Calling resource()
+[33m[W 201223 16:20:19 mmclient:19][39m Calling _params()
+[33m[W 201223 16:20:19 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 16:20:19 mmclient:19][39m Calling _api_call()
+[33m[W 201223 16:20:19 mmclient:357][39m Method is: POST
+[33m[W 201223 16:21:07 mmclient:19][39m Calling reg_domain_prof()
+[33m[W 201223 16:21:07 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 16:21:07 mmclient:19][39m Calling resource()
+[33m[W 201223 16:21:07 mmclient:19][39m Calling _params()
+[33m[W 201223 16:21:07 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 16:21:07 mmclient:19][39m Calling _api_call()
+[33m[W 201223 16:21:07 mmclient:357][39m Method is: POST
+[31m[E 201223 16:21:07 mmclient:387][39m Config not written: {'Error': 'Exception raised while processing request'}
+[33m[W 201223 16:21:48 mmclient:19][39m Calling ap_sys_prof()
+[33m[W 201223 16:21:48 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 16:21:48 mmclient:19][39m Calling resource()
+[33m[W 201223 16:21:48 mmclient:19][39m Calling _params()
+[33m[W 201223 16:21:48 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 16:21:48 mmclient:19][39m Calling _api_call()
+[33m[W 201223 16:21:48 mmclient:357][39m Method is: POST
+[31m[E 201223 16:21:48 mmclient:387][39m Config not written: {'Error': 'Exception raised while processing request'}
+[33m[W 201223 16:29:21 mmclient:19][39m Calling __init__()
+[33m[W 201223 16:29:21 mmclient:117][39m Not verifying SSL
+[33m[W 201223 16:29:24 mmclient:19][39m Calling _login()
+[33m[W 201223 16:29:24 mmclient:398][39m SSL verify (False or cert path): False
+[33m[W 201223 16:29:24 mmclient:19][39m Calling _api_call()
+[33m[W 201223 16:29:24 mmclient:357][39m Method is: POST
+[33m[W 201223 16:29:30 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201223 16:29:30 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 16:29:30 mmclient:19][39m Calling resource()
+[33m[W 201223 16:29:30 mmclient:19][39m Calling _params()
+[33m[W 201223 16:29:30 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 16:29:30 mmclient:19][39m Calling _api_call()
+[33m[W 201223 16:29:30 mmclient:357][39m Method is: POST
+[33m[W 201223 16:31:05 mmclient:19][39m Calling __init__()
+[33m[W 201223 16:31:05 mmclient:117][39m Not verifying SSL
+[33m[W 201223 16:59:35 mmclient:19][39m Calling __init__()
+[33m[W 201223 16:59:35 mmclient:117][39m Not verifying SSL
+[33m[W 201223 16:59:50 mmclient:19][39m Calling _login()
+[33m[W 201223 16:59:50 mmclient:398][39m SSL verify (False or cert path): False
+[33m[W 201223 16:59:50 mmclient:19][39m Calling _api_call()
+[33m[W 201223 16:59:50 mmclient:357][39m Method is: POST
+[33m[W 201223 17:00:27 mmclient:19][39m Calling __init__()
+[33m[W 201223 17:00:27 mmclient:117][39m Not verifying SSL
+[33m[W 201223 17:00:32 mmclient:19][39m Calling _login()
+[33m[W 201223 17:00:32 mmclient:398][39m SSL verify (False or cert path): False
+[33m[W 201223 17:00:32 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:00:32 mmclient:357][39m Method is: POST
+[33m[W 201223 17:01:38 mmclient:19][39m Calling __init__()
+[33m[W 201223 17:01:38 mmclient:117][39m Not verifying SSL
+[33m[W 201223 17:01:42 mmclient:19][39m Calling _login()
+[33m[W 201223 17:01:42 mmclient:398][39m SSL verify (False or cert path): False
+[33m[W 201223 17:01:42 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:01:42 mmclient:357][39m Method is: POST
+[33m[W 201223 17:01:50 mmclient:19][39m Calling __init__()
+[33m[W 201223 17:01:50 mmclient:117][39m Not verifying SSL
+[33m[W 201223 17:01:54 mmclient:19][39m Calling _login()
+[33m[W 201223 17:01:54 mmclient:398][39m SSL verify (False or cert path): False
+[33m[W 201223 17:01:54 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:01:54 mmclient:357][39m Method is: POST
+[33m[W 201223 17:02:24 mmclient:19][39m Calling __init__()
+[33m[W 201223 17:02:24 mmclient:117][39m Not verifying SSL
+[33m[W 201223 17:02:37 mmclient:19][39m Calling __init__()
+[33m[W 201223 17:02:37 mmclient:117][39m Not verifying SSL
+[33m[W 201223 17:03:01 mmclient:19][39m Calling _login()
+[33m[W 201223 17:03:01 mmclient:398][39m SSL verify (False or cert path): False
+[33m[W 201223 17:03:01 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:03:01 mmclient:357][39m Method is: POST
+[33m[W 201223 17:07:20 mmclient:19][39m Calling __init__()
+[33m[W 201223 17:07:20 mmclient:117][39m Not verifying SSL
+[33m[W 201223 17:07:24 mmclient:19][39m Calling _login()
+[33m[W 201223 17:07:24 mmclient:398][39m SSL verify (False or cert path): False
+[33m[W 201223 17:07:24 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:07:24 mmclient:357][39m Method is: POST
+[33m[W 201223 17:07:40 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201223 17:07:40 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 17:07:40 mmclient:19][39m Calling resource()
+[33m[W 201223 17:07:40 mmclient:19][39m Calling _params()
+[33m[W 201223 17:07:40 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 17:07:40 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:07:40 mmclient:357][39m Method is: POST
+[33m[W 201223 17:09:21 mmclient:19][39m Calling ap_a_radio_prof()
+[33m[W 201223 17:09:21 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 17:09:21 mmclient:19][39m Calling resource()
+[33m[W 201223 17:09:21 mmclient:19][39m Calling _params()
+[33m[W 201223 17:09:21 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 17:09:21 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:09:21 mmclient:357][39m Method is: POST
+[33m[W 201223 17:09:35 mmclient:19][39m Calling ap_g_radio_prof()
+[33m[W 201223 17:09:35 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 17:09:35 mmclient:19][39m Calling resource()
+[33m[W 201223 17:09:35 mmclient:19][39m Calling _params()
+[33m[W 201223 17:09:35 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 17:09:35 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:09:35 mmclient:357][39m Method is: POST
+[33m[W 201223 17:09:42 mmclient:19][39m Calling reg_domain_prof()
+[33m[W 201223 17:09:42 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 17:09:42 mmclient:19][39m Calling resource()
+[33m[W 201223 17:09:42 mmclient:19][39m Calling _params()
+[33m[W 201223 17:09:42 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 17:09:42 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:09:42 mmclient:357][39m Method is: POST
+[31m[E 201223 17:09:42 mmclient:387][39m Config not written: {'Error': 'Exception raised while processing request'}
+[33m[W 201223 17:10:50 mmclient:19][39m Calling __init__()
+[33m[W 201223 17:10:50 mmclient:117][39m Not verifying SSL
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _login()
+[33m[W 201223 17:10:57 mmclient:398][39m SSL verify (False or cert path): False
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:10:57 mmclient:357][39m Method is: POST
+[33m[W 201223 17:10:57 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling resource()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _params()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:10:57 mmclient:357][39m Method is: POST
+[33m[W 201223 17:10:57 mmclient:19][39m Calling ap_a_radio_prof()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling resource()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _params()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:10:57 mmclient:357][39m Method is: POST
+[33m[W 201223 17:10:57 mmclient:19][39m Calling ap_g_radio_prof()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling resource()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _params()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:10:57 mmclient:357][39m Method is: POST
+[33m[W 201223 17:10:57 mmclient:19][39m Calling reg_domain_prof()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling resource()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _params()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:10:57 mmclient:357][39m Method is: POST
+[33m[W 201223 17:10:57 mmclient:19][39m Calling ap_sys_prof()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling resource()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _params()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 17:10:57 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:10:57 mmclient:357][39m Method is: POST
+[33m[W 201223 17:10:58 mmclient:19][39m Calling ap_group()
+[33m[W 201223 17:10:58 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 17:10:58 mmclient:19][39m Calling resource()
+[33m[W 201223 17:10:58 mmclient:19][39m Calling _params()
+[33m[W 201223 17:10:58 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 17:10:58 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:10:58 mmclient:357][39m Method is: POST
+[33m[W 201223 17:10:59 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling resource()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _params()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:10:59 mmclient:357][39m Method is: POST
+[33m[W 201223 17:10:59 mmclient:19][39m Calling ap_a_radio_prof()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling resource()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _params()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:10:59 mmclient:357][39m Method is: POST
+[33m[W 201223 17:10:59 mmclient:19][39m Calling ap_g_radio_prof()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling resource()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _params()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:10:59 mmclient:357][39m Method is: POST
+[33m[W 201223 17:10:59 mmclient:19][39m Calling reg_domain_prof()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling resource()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _params()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:10:59 mmclient:357][39m Method is: POST
+[33m[W 201223 17:10:59 mmclient:19][39m Calling ap_sys_prof()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling resource()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _params()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:10:59 mmclient:357][39m Method is: POST
+[33m[W 201223 17:10:59 mmclient:19][39m Calling ap_group()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling resource()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _params()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _resource_url()
+[33m[W 201223 17:10:59 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:10:59 mmclient:357][39m Method is: POST
+[33m[W 201223 17:11:00 mmclient:19][39m Calling logout()
+[33m[W 201223 17:11:00 mmclient:19][39m Calling _api_call()
+[33m[W 201223 17:11:00 mmclient:357][39m Method is: GET
+[33m[W 201224 01:49:28 mmclient:117][39m Not verifying SSL
+[33m[W 201224 01:49:32 mmclient:19][39m Calling _login()
+[33m[W 201224 01:49:32 mmclient:398][39m SSL verify (False or cert path): False
+[33m[W 201224 01:49:32 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:49:32 mmclient:357][39m Method is: POST
+[33m[W 201224 01:49:32 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201224 01:49:32 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 01:49:32 mmclient:19][39m Calling resource()
+[33m[W 201224 01:49:32 mmclient:19][39m Calling _params()
+[33m[W 201224 01:49:32 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 01:49:32 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:49:32 mmclient:357][39m Method is: POST
+[33m[W 201224 01:49:32 mmclient:19][39m Calling ap_a_radio_prof()
+[33m[W 201224 01:49:32 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 01:49:32 mmclient:19][39m Calling resource()
+[33m[W 201224 01:49:32 mmclient:19][39m Calling _params()
+[33m[W 201224 01:49:32 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 01:49:32 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:49:32 mmclient:357][39m Method is: POST
+[33m[W 201224 01:49:32 mmclient:19][39m Calling ap_g_radio_prof()
+[33m[W 201224 01:49:32 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 01:49:32 mmclient:19][39m Calling resource()
+[33m[W 201224 01:49:32 mmclient:19][39m Calling _params()
+[33m[W 201224 01:49:32 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 01:49:32 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:49:32 mmclient:357][39m Method is: POST
+[33m[W 201224 01:49:32 mmclient:19][39m Calling reg_domain_prof()
+[33m[W 201224 01:49:32 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 01:49:32 mmclient:19][39m Calling resource()
+[33m[W 201224 01:49:32 mmclient:19][39m Calling _params()
+[33m[W 201224 01:49:32 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 01:49:32 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:49:32 mmclient:357][39m Method is: POST
+[33m[W 201224 01:49:33 mmclient:19][39m Calling ap_sys_prof()
+[33m[W 201224 01:49:33 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 01:49:33 mmclient:19][39m Calling resource()
+[33m[W 201224 01:49:33 mmclient:19][39m Calling _params()
+[33m[W 201224 01:49:33 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 01:49:33 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:49:33 mmclient:357][39m Method is: POST
+[33m[W 201224 01:51:11 mmclient:117][39m Not verifying SSL
+[33m[W 201224 01:51:16 mmclient:19][39m Calling _login()
+[33m[W 201224 01:51:16 mmclient:398][39m SSL verify (False or cert path): False
+[33m[W 201224 01:51:16 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:51:16 mmclient:357][39m Method is: POST
+[33m[W 201224 01:51:16 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201224 01:51:16 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 01:51:16 mmclient:19][39m Calling resource()
+[33m[W 201224 01:51:16 mmclient:19][39m Calling _params()
+[33m[W 201224 01:51:16 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 01:51:16 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:51:16 mmclient:357][39m Method is: POST
+[33m[W 201224 01:51:16 mmclient:19][39m Calling ap_a_radio_prof()
+[33m[W 201224 01:51:16 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 01:51:16 mmclient:19][39m Calling resource()
+[33m[W 201224 01:51:16 mmclient:19][39m Calling _params()
+[33m[W 201224 01:51:16 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 01:51:16 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:51:16 mmclient:357][39m Method is: POST
+[33m[W 201224 01:51:17 mmclient:19][39m Calling ap_g_radio_prof()
+[33m[W 201224 01:51:17 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 01:51:17 mmclient:19][39m Calling resource()
+[33m[W 201224 01:51:17 mmclient:19][39m Calling _params()
+[33m[W 201224 01:51:17 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 01:51:17 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:51:17 mmclient:357][39m Method is: POST
+[33m[W 201224 01:51:17 mmclient:19][39m Calling reg_domain_prof()
+[33m[W 201224 01:51:17 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 01:51:17 mmclient:19][39m Calling resource()
+[33m[W 201224 01:51:17 mmclient:19][39m Calling _params()
+[33m[W 201224 01:51:17 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 01:51:17 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:51:17 mmclient:357][39m Method is: POST
+[33m[W 201224 01:51:17 mmclient:19][39m Calling ap_sys_prof()
+[33m[W 201224 01:51:17 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 01:51:17 mmclient:19][39m Calling resource()
+[33m[W 201224 01:51:17 mmclient:19][39m Calling _params()
+[33m[W 201224 01:51:17 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 01:51:17 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:51:17 mmclient:357][39m Method is: POST
+[33m[W 201224 01:51:54 mmclient:19][39m Calling wlan_ssid_profile()
+[33m[W 201224 01:51:54 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 01:51:54 mmclient:19][39m Calling resource()
+[33m[W 201224 01:51:54 mmclient:19][39m Calling _params()
+[33m[W 201224 01:51:54 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 01:51:54 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:51:54 mmclient:357][39m Method is: POST
+[33m[W 201224 01:52:27 mmclient:19][39m Calling virtual_ap()
+[33m[W 201224 01:52:27 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 01:52:27 mmclient:19][39m Calling resource()
+[33m[W 201224 01:52:27 mmclient:19][39m Calling _params()
+[33m[W 201224 01:52:27 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 01:52:27 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:52:27 mmclient:357][39m Method is: POST
+[33m[W 201224 01:55:16 mmclient:117][39m Not verifying SSL
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _login()
+[33m[W 201224 01:55:21 mmclient:398][39m SSL verify (False or cert path): False
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:55:21 mmclient:357][39m Method is: POST
+[33m[W 201224 01:55:21 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling resource()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _params()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:55:21 mmclient:357][39m Method is: POST
+[33m[W 201224 01:55:21 mmclient:19][39m Calling ap_a_radio_prof()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling resource()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _params()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:55:21 mmclient:357][39m Method is: POST
+[33m[W 201224 01:55:21 mmclient:19][39m Calling ap_g_radio_prof()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling resource()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _params()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:55:21 mmclient:357][39m Method is: POST
+[33m[W 201224 01:55:21 mmclient:19][39m Calling reg_domain_prof()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling resource()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _params()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:55:21 mmclient:357][39m Method is: POST
+[33m[W 201224 01:55:21 mmclient:19][39m Calling ap_sys_prof()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling resource()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _params()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 01:55:21 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:55:21 mmclient:357][39m Method is: POST
+[33m[W 201224 01:55:41 mmclient:19][39m Calling wlan_ssid_profile()
+[33m[W 201224 01:55:41 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 01:55:41 mmclient:19][39m Calling resource()
+[33m[W 201224 01:55:41 mmclient:19][39m Calling _params()
+[33m[W 201224 01:55:41 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 01:55:41 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:55:41 mmclient:357][39m Method is: POST
+[33m[W 201224 01:55:52 mmclient:19][39m Calling virtual_ap()
+[33m[W 201224 01:55:52 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 01:55:52 mmclient:19][39m Calling resource()
+[33m[W 201224 01:55:52 mmclient:19][39m Calling _params()
+[33m[W 201224 01:55:52 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 01:55:52 mmclient:19][39m Calling _api_call()
+[33m[W 201224 01:55:52 mmclient:357][39m Method is: POST
+[33m[W 201224 02:02:29 mmclient:117][39m Not verifying SSL
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _login()
+[33m[W 201224 02:02:46 mmclient:398][39m SSL verify (False or cert path): False
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:02:46 mmclient:357][39m Method is: POST
+[33m[W 201224 02:02:46 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling resource()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _params()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:02:46 mmclient:357][39m Method is: POST
+[33m[W 201224 02:02:46 mmclient:19][39m Calling ap_a_radio_prof()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling resource()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _params()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:02:46 mmclient:357][39m Method is: POST
+[33m[W 201224 02:02:46 mmclient:19][39m Calling ap_g_radio_prof()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling resource()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _params()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:02:46 mmclient:357][39m Method is: POST
+[33m[W 201224 02:02:46 mmclient:19][39m Calling reg_domain_prof()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling resource()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _params()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:02:46 mmclient:357][39m Method is: POST
+[33m[W 201224 02:02:46 mmclient:19][39m Calling ap_sys_prof()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling resource()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _params()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:02:46 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:02:46 mmclient:357][39m Method is: POST
+[33m[W 201224 02:03:10 mmclient:19][39m Calling wlan_ssid_profile()
+[33m[W 201224 02:03:10 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:03:10 mmclient:19][39m Calling resource()
+[33m[W 201224 02:03:10 mmclient:19][39m Calling _params()
+[33m[W 201224 02:03:10 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:03:10 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:03:10 mmclient:357][39m Method is: POST
+[33m[W 201224 02:03:10 mmclient:19][39m Calling virtual_ap()
+[33m[W 201224 02:03:10 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:03:10 mmclient:19][39m Calling resource()
+[33m[W 201224 02:03:10 mmclient:19][39m Calling _params()
+[33m[W 201224 02:03:10 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:03:10 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:03:10 mmclient:357][39m Method is: POST
+[33m[W 201224 02:03:12 mmclient:19][39m Calling wlan_ssid_profile()
+[33m[W 201224 02:03:12 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:03:12 mmclient:19][39m Calling resource()
+[33m[W 201224 02:03:12 mmclient:19][39m Calling _params()
+[33m[W 201224 02:03:12 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:03:12 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:03:12 mmclient:357][39m Method is: POST
+[33m[W 201224 02:03:12 mmclient:19][39m Calling virtual_ap()
+[33m[W 201224 02:03:12 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:03:12 mmclient:19][39m Calling resource()
+[33m[W 201224 02:03:12 mmclient:19][39m Calling _params()
+[33m[W 201224 02:03:12 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:03:12 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:03:12 mmclient:357][39m Method is: POST
+[33m[W 201224 02:04:28 mmclient:117][39m Not verifying SSL
+[33m[W 201224 02:04:31 mmclient:19][39m Calling _login()
+[33m[W 201224 02:04:31 mmclient:398][39m SSL verify (False or cert path): False
+[33m[W 201224 02:04:31 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:04:31 mmclient:357][39m Method is: POST
+[33m[W 201224 02:04:31 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201224 02:04:31 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:04:31 mmclient:19][39m Calling resource()
+[33m[W 201224 02:04:31 mmclient:19][39m Calling _params()
+[33m[W 201224 02:04:31 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:04:31 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:04:31 mmclient:357][39m Method is: POST
+[33m[W 201224 02:04:32 mmclient:19][39m Calling ap_a_radio_prof()
+[33m[W 201224 02:04:32 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:04:32 mmclient:19][39m Calling resource()
+[33m[W 201224 02:04:32 mmclient:19][39m Calling _params()
+[33m[W 201224 02:04:32 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:04:32 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:04:32 mmclient:357][39m Method is: POST
+[33m[W 201224 02:04:32 mmclient:19][39m Calling ap_g_radio_prof()
+[33m[W 201224 02:04:32 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:04:32 mmclient:19][39m Calling resource()
+[33m[W 201224 02:04:32 mmclient:19][39m Calling _params()
+[33m[W 201224 02:04:32 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:04:32 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:04:32 mmclient:357][39m Method is: POST
+[33m[W 201224 02:04:32 mmclient:19][39m Calling reg_domain_prof()
+[33m[W 201224 02:04:32 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:04:32 mmclient:19][39m Calling resource()
+[33m[W 201224 02:04:32 mmclient:19][39m Calling _params()
+[33m[W 201224 02:04:32 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:04:32 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:04:32 mmclient:357][39m Method is: POST
+[33m[W 201224 02:04:32 mmclient:19][39m Calling ap_sys_prof()
+[33m[W 201224 02:04:32 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:04:32 mmclient:19][39m Calling resource()
+[33m[W 201224 02:04:32 mmclient:19][39m Calling _params()
+[33m[W 201224 02:04:32 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:04:32 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:04:32 mmclient:357][39m Method is: POST
+[33m[W 201224 02:04:36 mmclient:19][39m Calling wlan_ssid_profile()
+[33m[W 201224 02:04:36 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:04:36 mmclient:19][39m Calling resource()
+[33m[W 201224 02:04:36 mmclient:19][39m Calling _params()
+[33m[W 201224 02:04:36 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:04:36 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:04:36 mmclient:357][39m Method is: POST
+[33m[W 201224 02:04:36 mmclient:19][39m Calling virtual_ap()
+[33m[W 201224 02:04:36 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:04:36 mmclient:19][39m Calling resource()
+[33m[W 201224 02:04:36 mmclient:19][39m Calling _params()
+[33m[W 201224 02:04:36 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:04:36 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:04:36 mmclient:357][39m Method is: POST
+[33m[W 201224 02:04:36 mmclient:19][39m Calling wlan_ssid_profile()
+[33m[W 201224 02:04:36 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:04:36 mmclient:19][39m Calling resource()
+[33m[W 201224 02:04:36 mmclient:19][39m Calling _params()
+[33m[W 201224 02:04:36 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:04:36 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:04:36 mmclient:357][39m Method is: POST
+[33m[W 201224 02:04:36 mmclient:19][39m Calling virtual_ap()
+[33m[W 201224 02:04:36 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:04:36 mmclient:19][39m Calling resource()
+[33m[W 201224 02:04:36 mmclient:19][39m Calling _params()
+[33m[W 201224 02:04:36 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:04:36 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:04:36 mmclient:357][39m Method is: POST
+[33m[W 201224 02:05:42 mmclient:117][39m Not verifying SSL
+[33m[W 201224 02:05:45 mmclient:19][39m Calling _login()
+[33m[W 201224 02:05:45 mmclient:398][39m SSL verify (False or cert path): False
+[33m[W 201224 02:05:45 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:05:45 mmclient:357][39m Method is: POST
+[33m[W 201224 02:05:46 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling resource()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling _params()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:05:46 mmclient:357][39m Method is: POST
+[33m[W 201224 02:05:46 mmclient:19][39m Calling ap_a_radio_prof()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling resource()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling _params()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:05:46 mmclient:357][39m Method is: POST
+[33m[W 201224 02:05:46 mmclient:19][39m Calling ap_g_radio_prof()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling resource()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling _params()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:05:46 mmclient:357][39m Method is: POST
+[33m[W 201224 02:05:46 mmclient:19][39m Calling reg_domain_prof()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling resource()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling _params()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:05:46 mmclient:357][39m Method is: POST
+[33m[W 201224 02:05:46 mmclient:19][39m Calling ap_sys_prof()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling resource()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling _params()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:05:46 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:05:46 mmclient:357][39m Method is: POST
+[33m[W 201224 02:06:06 mmclient:19][39m Calling wlan_ssid_profile()
+[33m[W 201224 02:06:06 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:06:06 mmclient:19][39m Calling resource()
+[33m[W 201224 02:06:06 mmclient:19][39m Calling _params()
+[33m[W 201224 02:06:06 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:06:06 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:06:06 mmclient:357][39m Method is: POST
+[33m[W 201224 02:06:30 mmclient:19][39m Calling virtual_ap()
+[33m[W 201224 02:06:30 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:06:30 mmclient:19][39m Calling resource()
+[33m[W 201224 02:06:30 mmclient:19][39m Calling _params()
+[33m[W 201224 02:06:30 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:06:30 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:06:30 mmclient:357][39m Method is: POST
+[33m[W 201224 02:07:26 mmclient:19][39m Calling wlan_ssid_profile()
+[33m[W 201224 02:07:26 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:07:26 mmclient:19][39m Calling resource()
+[33m[W 201224 02:07:26 mmclient:19][39m Calling _params()
+[33m[W 201224 02:07:26 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:07:26 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:07:26 mmclient:357][39m Method is: POST
+[33m[W 201224 02:07:26 mmclient:19][39m Calling virtual_ap()
+[33m[W 201224 02:07:26 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:07:26 mmclient:19][39m Calling resource()
+[33m[W 201224 02:07:26 mmclient:19][39m Calling _params()
+[33m[W 201224 02:07:26 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:07:26 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:07:26 mmclient:357][39m Method is: POST
+[33m[W 201224 02:16:02 mmclient:117][39m Not verifying SSL
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _login()
+[33m[W 201224 02:16:08 mmclient:398][39m SSL verify (False or cert path): False
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:16:08 mmclient:357][39m Method is: POST
+[33m[W 201224 02:16:08 mmclient:19][39m Calling add_node_hierarchy()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling resource()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _params()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:16:08 mmclient:357][39m Method is: POST
+[33m[W 201224 02:16:08 mmclient:19][39m Calling ap_a_radio_prof()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling resource()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _params()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:16:08 mmclient:357][39m Method is: POST
+[33m[W 201224 02:16:08 mmclient:19][39m Calling ap_g_radio_prof()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling resource()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _params()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:16:08 mmclient:357][39m Method is: POST
+[33m[W 201224 02:16:08 mmclient:19][39m Calling reg_domain_prof()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling resource()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _params()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:16:08 mmclient:357][39m Method is: POST
+[33m[W 201224 02:16:08 mmclient:19][39m Calling ap_sys_prof()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling resource()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _params()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:16:08 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:16:08 mmclient:357][39m Method is: POST
+[33m[W 201224 02:16:57 mmclient:19][39m Calling wlan_ssid_profile()
+[33m[W 201224 02:16:57 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:16:57 mmclient:19][39m Calling resource()
+[33m[W 201224 02:16:57 mmclient:19][39m Calling _params()
+[33m[W 201224 02:16:57 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:16:57 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:16:57 mmclient:357][39m Method is: POST
+[33m[W 201224 02:16:57 mmclient:19][39m Calling virtual_ap()
+[33m[W 201224 02:16:57 mmclient:19][39m Calling _kwargs_modify()
+[33m[W 201224 02:16:57 mmclient:19][39m Calling resource()
+[33m[W 201224 02:16:57 mmclient:19][39m Calling _params()
+[33m[W 201224 02:16:57 mmclient:19][39m Calling _resource_url()
+[33m[W 201224 02:16:57 mmclient:19][39m Calling _api_call()
+[33m[W 201224 02:16:57 mmclient:357][39m Method is: POST

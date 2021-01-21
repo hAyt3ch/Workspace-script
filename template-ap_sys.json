@@ -1,0 +1,315 @@
+{
+    "profile-name": "TEMPLATE-ap_sys",
+    "rf_band": {
+      "_flags": {
+        "default": true
+      },
+      "rf_band": "g"
+    },
+    "recovery_mode": {
+      "_flags": {
+        "default": true
+      },
+      "recovery_mode": "auto"
+    },
+    "am_scan_rf_band": {
+      "_flags": {
+        "default": true
+      },
+      "rf_band_tristate": "all"
+    },
+    "native_vlan_id": {
+      "_flags": {
+        "default": true
+      },
+      "native-vlan-id": 1
+    },
+    "wids_aggr_optimization": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "heartbeat_interval": {
+      "_flags": {
+        "default": true
+      },
+      "heartbeat-interval": 1
+    },
+    "session_acl": {
+      "_flags": {
+        "default": true
+      },
+      "session-acl": "ap-uplink-acl"
+    },
+    "led_mode": {
+      "_flags": {
+        "default": true
+      },
+      "led_mode": "normal"
+    },
+    "driver_log_lvl": {
+      "_flags": {
+        "default": true
+      },
+      "logging_level": "warnings"
+    },
+    "console_log_lvl": {
+      "_flags": {
+        "default": true
+      },
+      "logging_level": "emergencies"
+    },
+    "rap_mtu": {
+      "_flags": {
+        "default": true
+      },
+      "rap-gre-mtu": 1300
+    },
+    "lms_hold_down_period": {
+      "_flags": {
+        "default": true
+      },
+      "lms-hold-down-period": 600
+    },
+    "lms_ping_interval": {
+      "_flags": {
+        "default": true
+      },
+      "lms-ping-interval": 20
+    },
+    "rap_dhcp_server_id": {
+      "_flags": {
+        "default": true
+      },
+      "rap-dhcp-server-id": "192.168.11.1"
+    },
+    "rap_dhcp_default_router": {
+      "_flags": {
+        "default": true
+      },
+      "rap-dhcp-default-router": "192.168.11.1"
+    },
+    "rap_dhcp_pool_start": {
+      "_flags": {
+        "default": true
+      },
+      "rap-dhcp-pool-start": "192.168.11.2"
+    },
+    "rap_dhcp_pool_end": {
+      "_flags": {
+        "default": true
+      },
+      "rap-dhcp-pool-end": "192.168.11.254"
+    },
+    "rap_dhcp_pool_netmask": {
+      "_flags": {
+        "default": true
+      },
+      "rap-dhcp-pool-netmask": "255.255.255.0"
+    },
+    "rap_dhcp_lease": {
+      "_flags": {
+        "default": true
+      },
+      "rap-dhcp-lease": 0
+    },
+    "rap_bw_total": {
+      "_flags": {
+        "default": true
+      },
+      "rap-bw-total": 0
+    },
+    "flex_radio_mode": {
+      "_flags": {
+        "default": true
+      },
+      "flex_radio_mode": "2.4GHz-and-5GHz"
+    },
+    "dual_5ghz_mode": {
+      "_flags": {
+        "default": true
+      },
+      "dual_5ghz_mode": "Automatic"
+    },
+    "dual_5ghz_mode_legacy": {
+      "_flags": {
+        "default": true
+      },
+      "dual_5ghz_mode_legacy": "Disabled"
+    },
+    "tri_radio_mode": {
+      "_flags": {
+        "default": true
+      },
+      "tri_radio_mode": "Disabled"
+    },
+    "ipm_enable": {},
+    "ipm_power_red_steps_pri": [
+      {
+        "ipm_power_reduction_steps_t": "disable_alt_eth",
+        "priority": 1
+      },
+      {
+        "ipm_power_reduction_steps_t": "disable_usb",
+        "priority": 2
+      },
+      {
+        "ipm_power_reduction_steps_t": "cpu_throttle_25",
+        "priority": 3
+      },
+      {
+        "ipm_power_reduction_steps_t": "cpu_throttle_50",
+        "priority": 4
+      }
+    ],
+    "ipm_steps_delete_all": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "bootstrap_thresh": {
+      "_flags": {
+        "default": true
+      },
+      "bootstrap-threshold": 8
+    },
+    "heartbeat_dscp": {
+      "_flags": {
+        "default": true
+      },
+      "heartbeat-dscp": 0
+    },
+    "max_req_retries": {
+      "_flags": {
+        "default": true
+      },
+      "max-request-retries": 10
+    },
+    "req_retry_intvl": {
+      "_flags": {
+        "default": true
+      },
+      "request-retry-interval": 10
+    },
+    "number_ipsec_retries": {
+      "_flags": {
+        "default": true
+      },
+      "number_ipsec_retries": 85
+    },
+    "rtls_server_compat_mode": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "sesImagotag_esl_radio_coex": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "slow_timer_recovery": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "ap_mcast_aggr_allowed_vlans": {
+      "_flags": {
+        "default": true
+      },
+      "vlan-list": "none"
+    },
+    "console_enable": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "ap_console_protection": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "ap_console_password": {
+      "ap-console-password": "Aruba123!"
+    },
+    "wpa_bk_passphrase": {
+      "bkup-passwords": "!@#$!@#$092,.Mbk"
+    },
+    "ap_usb_power_mode": {
+      "_flags": {
+        "default": true
+      },
+      "ap_usb_power_mode_sel": "auto"
+    },
+    "ap_poe_mode": {
+      "_flags": {
+        "default": true
+      },
+      "ap_poe_mode_sel": "shared"
+    },
+    "bk_rf_band": {
+      "_flags": {
+        "default": true
+      },
+      "rf_band_tristate": "all"
+    },
+    "bk_op_mode": {
+      "_flags": {
+        "default": true
+      },
+      "bk_f_op_mode": "off"
+    },
+    "gre_offload": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "bridge_offload": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "ap_hcm": {
+      "_flags": {
+        "default": true
+      },
+      "ap_hcm_mode": "ping",
+      "packet-size": 32,
+      "burst-size": 5,
+      "report": 60,
+      "frequency": 10,
+      "retries": 3
+    },
+    "airmatch_report_period": {
+      "_flags": {
+        "default": true
+      },
+      "airmatch-report-period": 30
+    },
+    "airmatch_measure_duration": {
+      "_flags": {
+        "default": true
+      },
+      "airmatch-measure-duration": 5
+    },
+    "airmatch_report_enabled": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "dump_collection_prof": {
+      "_flags": {
+        "default": true
+      },
+      "profile-name": "default"
+    }
+  }

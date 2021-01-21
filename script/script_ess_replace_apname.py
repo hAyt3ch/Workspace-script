@@ -1,9 +1,10 @@
 # /usr/bin/python3
-
+'''
 # usage: script_ess_replace_apname.py [-h] esx_file csv_file
 # csv file format: 
 # ess_#,ap_name,ess_name
 # 1,B01-SS-URG11,Simulated AP-276
+'''
 
 import csv 
 import json 

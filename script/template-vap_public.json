@@ -1,0 +1,115 @@
+  {
+    "profile-name": "TEMPLATE-PUBLIC",
+    "aaa_prof": {
+      "profile-name": "TEMPLATE-PUBLIC_aaa_prof"
+    },
+    "dot11k_prof": {
+      "_flags": {
+        "default": true
+      },
+      "profile-name": "default"
+    },
+    "hotspot_prof": {
+      "_flags": {
+        "default": true
+      },
+      "profile-name": "default"
+    },
+    "vap_enable": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "vlan": {
+      "vlan": "1"
+    },
+    "forward_mode": {
+      "_flags": {
+        "default": true
+      },
+      "forward_mode": "tunnel"
+    },
+    "ssid_prof": {
+      "profile-name": "TEMPLATE-PUBLIC_ssid_prof"
+    },
+    "vap_rf_band": {
+      "_flags": {
+        "default": true
+      },
+      "rf_band_tristate": "all"
+    },
+    "allowed_5g_radio": {
+      "_flags": {
+        "default": true
+      },
+      "allowed_5g_radio": "all"
+    },
+    "openflow_enable": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "steering_mode": {
+      "_flags": {
+        "default": true
+      },
+      "steering_mode": "prefer-5ghz"
+    },
+    "dynamic_mcast_optimization": {},
+    "dynamic_mcast_opt_thresh": {
+      "_flags": {
+        "default": true
+      },
+      "dynamic-mcast-optimization-thresh": 6
+    },
+    "drop_mcast": {},
+    "voip_proxy_arp": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "auth_failure_blacklist_time": {
+      "_flags": {
+        "default": true
+      },
+      "auth-failure-blacklist-time": 3600
+    },
+    "blacklist_time": {
+      "_flags": {
+        "default": true
+      },
+      "blacklist-time": 3600
+    },
+    "deny_vap_inter_user_traffic": {},
+    "ha_disc_onassoc": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "mobile_ip": {
+      "_present": false
+    },
+    "rap_operation": {
+      "_flags": {
+        "default": true
+      },
+      "rap_virtual_ap_operation": "standard"
+    },
+    "blacklist": {
+      "_present": true,
+      "_flags": {
+        "default": true
+      }
+    },
+    "vlan_mobility": {},
+    "wan_operation": {
+      "_flags": {
+        "default": true
+      },
+      "wan_virtual_ap_operation": "always"
+    }
+  }

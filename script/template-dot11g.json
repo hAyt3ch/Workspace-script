@@ -1,0 +1,181 @@
+{
+        "profile-name": "<g>-dot11g",
+        "radio_enable": {
+          "_present": true,
+          "_flags": {
+            "default": true
+          }
+        },
+        "mode": {
+          "_flags": {
+            "default": true
+          },
+          "radio_mode": "ap-mode"
+        },
+        "radio_ht_enable": {
+          "_present": true,
+          "_flags": {
+            "default": true
+          }
+        },
+        "radio_he_enable": {
+          "_action": "delete"
+        },
+        "turboqam_rates_enable": {},
+        "tx_power": {
+          "_flags": {
+            "default": true
+          },
+          "tx-power": "15"
+        },
+        "intf_immunity": {
+          "_flags": {
+            "default": true
+          },
+          "interference-immunity": 2
+        },
+        "csa_count": {
+          "_flags": {
+            "default": true
+          },
+          "csa-count": 4
+        },
+        "spectrum_prof": {
+          "_flags": {
+            "default": true
+          },
+          "profile-name": "default-g"
+        },
+        "client_balance_mode": {
+          "_flags": {
+            "default": true
+          },
+          "client_balancing_mode": "channel"
+        },
+        "client_balance_update_interval": {
+          "_flags": {
+            "default": true
+          },
+          "slb-update-interval": 30
+        },
+        "client_balance_threshold": {
+          "_flags": {
+            "default": true
+          },
+          "slb-threshold": 20
+        },
+        "beacon_period": {
+          "_flags": {
+            "default": true
+          },
+          "beacon-period": 100
+        },
+        "cap_reg_eirp": {
+          "_flags": {
+            "default": true
+          },
+          "cap-reg-eirp": 0
+        },
+        "disable_arm_wids_functions": {
+          "_flags": {
+            "default": true
+          },
+          "disable_arm_wids_state": "OFF"
+        },
+        "cell_size_reduction": {
+          "_flags": {
+            "default": true
+          },
+          "cell-size-reduction": 0
+        },
+        "energy_detect_threshold": {
+          "_flags": {
+            "default": true
+          },
+          "energy-detect-threshold": 0
+        },
+        "mgmt_throt_intvl": {
+          "_flags": {
+            "default": true
+          },
+          "mgmt-frame-throttle-interval": 1
+        },
+        "mgmt_throt_count": {
+          "_flags": {
+            "default": true
+          },
+          "mgmt-frame-throttle-limit": 30
+        },
+        "max_distance": {
+          "_flags": {
+            "default": true
+          },
+          "maximum-distance": 0
+        },
+        "channel_reuse_threshold": {
+          "_flags": {
+            "default": true
+          },
+          "channel-reuse-threshold": 0
+        },
+        "channel_reuse": {
+          "_flags": {
+            "default": true
+          },
+          "channel_reuse_mode": "disable"
+        },
+        "dot11b_prot": {
+          "_present": true,
+          "_flags": {
+            "default": true
+          }
+        },
+        "arm_prof": {
+          "_flags": {
+            "default": true
+          },
+          "profile-name": "default-g"
+        },
+        "ht_radio_prof": {
+          "_flags": {
+            "default": true
+          },
+          "profile-name": "default-g"
+        },
+        "am_scan_prof": {
+          "_flags": {
+            "default": true
+          },
+          "profile-name": "default"
+        },
+        "transmit": {
+          "_present": true,
+          "_flags": {
+            "default": true
+          }
+        },
+        "max_channel_bandwidth": {
+          "_flags": {
+            "default": true
+          },
+          "chan_bandwidth_type": "20MHz"
+        },
+        "min_channel_bandwidth": {
+          "_flags": {
+            "default": true
+          },
+          "min_chan_bandwidth_type": "20MHz"
+        },
+        "eirp_min": {
+          "eirp-min": 18
+        },
+        "eirp_max": {
+          "eirp-max": 21
+        },
+        "eirp_offset": {
+          "_flags": {
+            "default": true
+          },
+          "eirp-offset": 0
+        }
+      }
